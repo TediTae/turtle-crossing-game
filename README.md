@@ -37,4 +37,4 @@ Each successful crossing increases the level and speed of the cars, making the g
 - This project is open source and available under the MIT License.
 
 ## Contact
-- tolgayilmmaz1377@gmail.com
+- tolgayilmaz1377@gmail.com
